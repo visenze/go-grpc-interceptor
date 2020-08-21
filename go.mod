@@ -1,4 +1,4 @@
-module github.com/hongshibao/go-grpc-interceptor
+module github.com/visenze/go-grpc-interceptor
 
 go 1.13
 
